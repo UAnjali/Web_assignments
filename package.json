@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "cypress": "^12.17.4",
+    "cypress-file-upload": "^5.0.8"
+  },
+  "name": "web_assignments",
+  "description": "Cypress web assignments",
+  "version": "1.0.0",
+  "main": "cypress.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
